@@ -49,11 +49,11 @@
       <file name="/fragment.java" timestamp="1587191759191">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/java_se/idea_demo/src/myarray/debug.java" timestamp="1587192656058">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="42" />
+      <file name="E:/java_se/idea_demo/src/myarray/debug.java" timestamp="1587193056385">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/java_study/src/first_package/HelloWorld.java" timestamp="1587178963023">
         <mark key="[" line="4" column="27" />
@@ -79,25 +79,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLm5leHRJbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLm5leHRJbnQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYXRhKG51bWJlcjogMjApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRhKG51bWJlcjogMjApOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
