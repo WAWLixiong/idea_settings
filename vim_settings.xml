@@ -38,6 +38,9 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
@@ -48,29 +51,10 @@
       <file name="/a.dummy" timestamp="1587213524328">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/java_se/idea_demo/src/construct/StudentDemo.java" timestamp="1587199638022">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/api/ScannerDemo.java" timestamp="1587201500761">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="35" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/myarray/Phone.java" timestamp="1587195994706">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="15" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/myarray/PhoneDemon.java" timestamp="1587196109512">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="7" column="0" />
+      <file name="E:/java_se/idea_demo/src/arraylist_learn/Student.java" timestamp="1587219540466">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="E:/java_se/idea_demo/src/string_learn/StringTest.java" timestamp="1587212828316">
         <mark key="[" line="13" column="0" />
@@ -84,17 +68,18 @@
         <mark key="." line="20" column="43" />
         <mark key="^" line="20" column="44" />
       </file>
-      <file name="E:/java_se/idea_demo/src/arraylist_learn/ArryListDemo.java" timestamp="1587217823141">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="19" column="0" />
+      <file name="E:/java_se/idea_demo/src/arraylist_learn/ArryListDemo.java" timestamp="1587218008156">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="49" />
+        <mark key="^" line="36" column="49" />
+        <mark key="." line="36" column="48" />
       </file>
-      <file name="E:/java_se/idea_demo/src/private_learn/Student.java" timestamp="1587197243633">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="9" column="22" />
+      <file name="E:/java_se/idea_demo/src/arraylist_learn/StudentListTest.java" timestamp="1587219601848">
+        <mark key="'" line="15" column="21" />
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="E:/java_se/idea_demo/src/string_learn/StringBuilderDemo.java" timestamp="1587215332197">
         <mark key="[" line="8" column="46" />
@@ -114,6 +99,30 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="E:/java_se/StudentManagement/src/Studnet.java" timestamp="1587220210548">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="E:/java_se/StudentManagement/src/maininterface/StudentManger.java" timestamp="1587220706460">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="E:/java_se/OOB/src/com01/Fu.java" timestamp="1587221472602">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="9" />
+      </file>
+      <file name="E:/java_se/StudentManagement/src/combine/Studnet.java" timestamp="1587220469370">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="4" />
+      </file>
       <file name="E:/java_se/idea_demo/src/string_learn/StringTest5.java" timestamp="1587215091116">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -131,23 +140,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/Student.java" timestamp="1587206499887">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/construct/Student.java" timestamp="1587199583849">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="42" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/private_learn/StudentDemo.java" timestamp="1587199422934">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Scanner.java" timestamp="1587212619047" />
       <file name="E:/java_se/idea_demo/src/string_learn/StringTest2.java" timestamp="1587213767386">
         <mark key="'" line="20" column="19" />
@@ -156,51 +148,70 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="18" />
       </file>
+      <file name="E:/java_se/OOB/src/com01/Zi.java" timestamp="1587221464475">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="36" />
+      </file>
+      <file name="E:/java_se/OOB/src/com01/Demo.java" timestamp="1587221194019">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="20" column="19" filename="E:/java_se/idea_demo/src/string_learn/StringTest2.java" />
+      <jump line="13" column="29" filename="E:/java_se/idea_demo/src/arraylist_learn/StudentListTest.java" />
+      <jump line="10" column="0" filename="E:/java_se/idea_demo/src/arraylist_learn/Student.java" />
+      <jump line="15" column="21" filename="E:/java_se/idea_demo/src/arraylist_learn/StudentListTest.java" />
+      <jump line="2" column="13" filename="E:/java_se/OOB/src/com01/Zi.java" />
+      <jump line="3" column="9" filename="E:/java_se/OOB/src/com01/Zi.java" />
+      <jump line="6" column="20" filename="E:/java_se/OOB/src/com01/Demo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFycmF5IiArIGFycmF5KTsK</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFycmF5IiArIGFycmF5KTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1ldGhvZLe9t6ixu7X308MiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV0ID0gc2IgKyAiZW5lbmVuIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiMiA9IHNiICsgImhoaGUiOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyA9PSAiaGVsbG8gd29ybGQiKTsgLy8gZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3UK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNzID0gIiArIHNzKTsK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZ2V0SW5mbygpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsbC5hZGQoc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
