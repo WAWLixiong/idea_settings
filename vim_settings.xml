@@ -28,7 +28,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/java_se/idea_demo/src/myarray/reload.java" timestamp="1587188862926">
+      <file name="E:/java_se/idea_demo/src/myarray/reload.java" timestamp="1587191748498">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="31" />
         <mark key="^" line="7" column="31" />
@@ -45,6 +45,9 @@
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="30" />
+      </file>
+      <file name="/fragment.java" timestamp="1587191759191">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/java_study/src/first_package/HelloWorld.java" timestamp="1587178963023">
         <mark key="[" line="4" column="27" />
