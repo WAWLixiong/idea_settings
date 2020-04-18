@@ -45,18 +45,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringTest5.java" timestamp="1587215091116">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringBuilderDemo1.java" timestamp="1587215671149">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="38" />
-      </file>
       <file name="/a.dummy" timestamp="1587213524328">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,11 +53,6 @@
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="16" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/string2stringbuilder.java" timestamp="1587216021662">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/java_se/idea_demo/src/api/ScannerDemo.java" timestamp="1587201500761">
         <mark key="[" line="9" column="16" />
@@ -82,18 +65,6 @@
         <mark key="]" line="10" column="16" />
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="15" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/Student.java" timestamp="1587206499887">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/construct/Student.java" timestamp="1587199583849">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="42" />
       </file>
       <file name="E:/java_se/idea_demo/src/myarray/PhoneDemon.java" timestamp="1587196109512">
         <mark key="[" line="7" column="0" />
@@ -113,6 +84,12 @@
         <mark key="." line="20" column="43" />
         <mark key="^" line="20" column="44" />
       </file>
+      <file name="E:/java_se/idea_demo/src/arraylist_learn/ArryListDemo.java" timestamp="1587217823141">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="E:/java_se/idea_demo/src/private_learn/Student.java" timestamp="1587197243633">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="22" />
@@ -125,11 +102,46 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="51" />
       </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/ArryListDemo.java" timestamp="1587217516276">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="36" />
+      </file>
       <file name="E:/java_se/idea_demo/src/string_learn/StringTest4.java" timestamp="1587214693135">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="8" column="34" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/StringTest5.java" timestamp="1587215091116">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/StringBuilderDemo1.java" timestamp="1587215671149">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="38" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/string2stringbuilder.java" timestamp="1587216021662">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/Student.java" timestamp="1587206499887">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/construct/Student.java" timestamp="1587199583849">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="42" />
       </file>
       <file name="E:/java_se/idea_demo/src/private_learn/StudentDemo.java" timestamp="1587199422934">
         <mark key="[" line="9" column="0" />
@@ -144,15 +156,6 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1587191759191">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/myarray/debug.java" timestamp="1587193056385">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="4" column="43" />
-        <mark key="." line="1" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="20" column="19" filename="E:/java_se/idea_demo/src/string_learn/StringTest2.java" />
@@ -161,16 +164,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV0ID0gc2IgKyAiZW5lbmVuIjsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFycmF5IiArIGFycmF5KTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
       </register>
-      <register name="0" type="4">
-        <text>sb + &quot;enenen&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFycmF5IiArIGFycmF5KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV0ID0gc2IgKyAiZW5lbmVuIjsK</text>
