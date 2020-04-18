@@ -28,6 +28,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/java_se/idea_demo/src/myarray/reload.java" timestamp="1587188831179">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="E:/java_se/idea_demo/src/myarray/method_demo.java" timestamp="1587187286459">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="11" column="31" />
@@ -51,17 +57,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>float</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyID0gMTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYXRhKG51bWJlcjogMjApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -70,22 +76,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRhKG51bWJlcjogMjApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heCA9IGFycltpXTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyLm1heCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">agoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heCA9IGFycltpXTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyWzJdKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyLm1heCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
