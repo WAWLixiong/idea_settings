@@ -6,6 +6,11 @@
     <history>
       <history-cmd>
         <entry>w</entry>
+        <entry>b2</entry>
+        <entry>b1</entry>
+        <entry>ls</entry>
+        <entry>b 1</entry>
+        <entry>reg</entry>
       </history-cmd>
     </history>
   </component>
@@ -28,6 +33,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/java_se/idea_demo/src/myarray/PhoneDemon.java" timestamp="1587196109512">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="E:/java_se/idea_demo/src/myarray/reload.java" timestamp="1587191748498">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="31" />
@@ -45,6 +56,12 @@
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="30" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/myarray/Phone.java" timestamp="1587195994706">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1587191759191">
         <mark key="[" line="0" column="0" />
@@ -70,7 +87,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIsfryuTI67Xa0ru49tX7yv06Iik7CiAgICAgICAgaW50IGEgPSBzYy5uZXh0SW50KCk7Cg==</text>
@@ -79,31 +96,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5jYWxsKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLm5leHRJbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLm5leHRJbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYXRhKG51bWJlcjogMjApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>reg</text>
       </register>
     </registers>
   </component>
