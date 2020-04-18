@@ -28,11 +28,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/java_se/idea_demo/src/myarray/reload.java" timestamp="1587188831179">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/java_se/idea_demo/src/myarray/reload.java" timestamp="1587188862926">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="E:/java_se/idea_demo/src/myarray/method_demo.java" timestamp="1587187286459">
         <mark key="[" line="10" column="35" />
@@ -58,13 +58,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>ret</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyID0gMTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
