@@ -25,6 +25,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
@@ -57,11 +60,11 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="E:/java_se/idea_demo/src/private_learn/StudentDemo.java" timestamp="1587197341891">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="18" />
+      <file name="E:/java_se/idea_demo/src/private_learn/StudentDemo.java" timestamp="1587199416550">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/java_se/idea_demo/src/myarray/ArrayDemo.java" timestamp="1587186116287">
         <mark key="[" line="35" column="27" />
@@ -95,38 +98,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0Lm5hbWUgPSAiYWdlIjsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIsfryuTI67Xa0ru49tX7yv06Iik7CiAgICAgICAgaW50IGEgPSBzYy5uZXh0SW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odC5nZXRBZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0Lm5hbWUgPSAiYWdlIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5jYWxsKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocC5jYWxsKCkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLm5leHRJbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHNjLm5leHRJbnQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmV0ID0gZ2V0RGF0YSgxMCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
