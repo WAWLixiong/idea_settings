@@ -140,7 +140,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Scanner.java" timestamp="1587212619047" />
       <file name="E:/java_se/idea_demo/src/string_learn/StringTest2.java" timestamp="1587213767386">
         <mark key="'" line="20" column="19" />
         <mark key="[" line="15" column="17" />
@@ -148,11 +147,14 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="E:/java_se/OOB/src/com01/Zi.java" timestamp="1587221464475">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="5" column="36" />
+      <file name="E:/java_se/OOB/src/com01/Zi.java" timestamp="1587222073549">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="/fragment.java" timestamp="1587222099821">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/java_se/OOB/src/com01/Demo.java" timestamp="1587221194019">
         <mark key="'" line="6" column="20" />
@@ -175,16 +177,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1ldGhvZLe9t6ixu7X308MiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5uYW1lKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
