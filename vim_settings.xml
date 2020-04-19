@@ -16,8 +16,11 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry encoding="base64">JzwsJz5zL2xpbmUuY2hhckF0KGkpL2NoL2c=</entry>
         <entry>2</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -48,19 +51,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587213524328">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/java_se/OOB/src/com02/Zi.java" timestamp="1587269183586">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="32" />
+      </file>
+      <file name="E:/java_se/OOB/src/com02/Fu.java" timestamp="1587269067125">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/StringTest5.java" timestamp="1587215091116">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="56" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/StringBuilderDemo1.java" timestamp="1587215671149">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="38" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/string_learn/string2stringbuilder.java" timestamp="1587216021662">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/java_se/idea_demo/src/arraylist_learn/Student.java" timestamp="1587219540466">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringTest.java" timestamp="1587212828316">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="27" />
       </file>
       <file name="E:/java_se/idea_demo/src/string_learn/StringTest3.java" timestamp="1587214229338">
         <mark key="[" line="19" column="9" />
@@ -111,47 +134,23 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="E:/java_se/OOB/src/com01/Fu.java" timestamp="1587221472602">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="9" />
-      </file>
-      <file name="E:/java_se/StudentManagement/src/combine/Studnet.java" timestamp="1587220469370">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="4" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringTest5.java" timestamp="1587215091116">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringBuilderDemo1.java" timestamp="1587215671149">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="38" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/string2stringbuilder.java" timestamp="1587216021662">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringTest2.java" timestamp="1587213767386">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="18" />
+      <file name="E:/java_se/OOB/src/com02/Demo.java" timestamp="1587268887145">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="E:/java_se/OOB/src/com01/Zi.java" timestamp="1587222073549">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="32" />
+      </file>
+      <file name="E:/java_se/OOB/src/com01/Fu.java" timestamp="1587221472602">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="9" />
       </file>
       <file name="/fragment.java" timestamp="1587222099821">
         <mark key="[" line="0" column="0" />
@@ -162,6 +161,12 @@
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="17" />
+      </file>
+      <file name="E:/java_se/StudentManagement/src/combine/Studnet.java" timestamp="1587220469370">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -177,22 +182,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>数</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>数</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGhpcy5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -201,19 +206,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZ2V0SW5mbygpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsbC5hZGQoc3QpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZ2V0SW5mbygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
