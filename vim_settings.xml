@@ -78,12 +78,6 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringBuilderDemo.java" timestamp="1587215332197">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="52" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="51" />
-      </file>
       <file name="E:/java_se/idea_demo/src/string_learn/ArryListDemo.java" timestamp="1587217516276">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="37" />
@@ -129,17 +123,17 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="E:/java_se/idea_demo/src/string_learn/StringTest5.java" timestamp="1587215091116">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="E:/java_se/idea_demo/src/string_learn/StringBuilderDemo1.java" timestamp="1587215671149">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="39" />
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="38" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/pkg2/Demo2.java" timestamp="1587396029989">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="E:/java_se/idea_demo/src/string_learn/string2stringbuilder.java" timestamp="1587216021662">
         <mark key="[" line="5" column="0" />
@@ -151,6 +145,12 @@
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="32" />
+      </file>
+      <file name="E:/java_se/idea_demo/src/pkg1/Demo1.java" timestamp="1587395992472">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1587222099821">
         <mark key="[" line="0" column="0" />
@@ -175,8 +175,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>show</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>show</text>
@@ -188,31 +188,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3coKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInppc2hvdyIpOwogICAgICAgIHN1cGVyLnNob3coKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZ2V0SW5mbygpCg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
