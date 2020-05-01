@@ -48,17 +48,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/java_se/OOB/src/com02/Zi.java" timestamp="1587270201444">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="26" column="13" />
-        <mark key="." line="26" column="12" />
-      </file>
       <file name="E:/java_se/duotai/src/AnimalDemo.java" timestamp="1588303267200">
         <mark key="'" line="2" column="23" />
         <mark key="[" line="3" column="34" />
@@ -84,6 +81,12 @@
         <mark key="]" line="0" column="44" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="43" />
+      </file>
+      <file name="E:/java_se/classandinterface/src/Animal.java" timestamp="1588335979955">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="65" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="0" column="64" />
       </file>
       <file name="/a.sql" timestamp="1587270890443">
         <mark key="[" line="0" column="0" />
