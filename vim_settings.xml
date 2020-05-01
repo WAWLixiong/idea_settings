@@ -66,17 +66,24 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="E:/java_se/chouxiang/src/Cat.java" timestamp="1588306896086">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="30" />
+      <file name="E:/java_se/chouxiang/src/Jump.java" timestamp="1588309103466">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="24" />
       </file>
-      <file name="E:/java_se/chouxiang/src/Animal.java" timestamp="1588307277919">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="0" />
+      <file name="E:/java_se/chouxiang/src/Cat.java" timestamp="1588309213045">
+        <mark key="'" line="0" column="30" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="E:/java_se/chouxiang/src/Animal.java" timestamp="1588309128420">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="/a.sql" timestamp="1587270890443">
         <mark key="[" line="0" column="0" />
@@ -88,11 +95,12 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="E:/java_se/chouxiang/src/Demo.java" timestamp="1588306930376">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="16" />
+      <file name="E:/java_se/chouxiang/src/Demo.java" timestamp="1588309223350">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="E:/java_se/jiekou/src/Cat.java" timestamp="1588307848574">
         <mark key="[" line="0" column="37" />
@@ -114,12 +122,6 @@
         <mark key="]" line="29" column="33" />
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="33" />
-      </file>
-      <file name="E:/java_se/OOB/src/com02/Fu.java" timestamp="1587270184410">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="11" />
       </file>
       <file name="E:/java_se/idea_demo/src/pkg2/Demo2.java" timestamp="1587396029989">
         <mark key="[" line="1" column="0" />
@@ -145,11 +147,11 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="E:/java_se/chouxiang/src/Dog.java" timestamp="1588306998760">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="15" />
+      <file name="E:/java_se/chouxiang/src/Dog.java" timestamp="1588309181082">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="30" />
       </file>
       <file name="E:/java_se/duotai/src/Animal.java" timestamp="1588301454016">
         <mark key="[" line="1" column="21" />
@@ -176,15 +178,18 @@
       <jump line="0" column="26" filename="E:/java_se/duotai/src/Cat.java" />
       <jump line="0" column="13" filename="E:/java_se/duotai/src/Animal.java" />
       <jump line="2" column="23" filename="E:/java_se/duotai/src/AnimalDemo.java" />
+      <jump line="2" column="23" filename="E:/java_se/chouxiang/src/Demo.java" />
+      <jump line="0" column="30" filename="E:/java_se/chouxiang/src/Cat.java" />
+      <jump line="0" column="22" filename="E:/java_se/chouxiang/src/Animal.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>cat</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>cat</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
@@ -193,31 +198,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3coKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInppc2hvdyIpOwogICAgICAgIHN1cGVyLnNob3coKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZWF0KCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImEgPSAiICsgYSk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZWF0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5lYXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImEgPSAiICsgYSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBbmltYWwoU3RyaW5nIG5hbWUpIHsgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlci5lYXQoKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBBbmltYWwoU3RyaW5nIG5hbWUpIHsgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5lYXQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVhdAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVhdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
