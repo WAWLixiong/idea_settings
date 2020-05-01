@@ -18,8 +18,8 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>e ~/.vimrc</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,11 +124,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="E:/java_se/internalclass/src/Demo.java" timestamp="1588341112541">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="16" />
+      <file name="E:/java_se/internalclass/src/Demo.java" timestamp="1588341187765">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="E:/java_se/classandinterface/src/Animal.java" timestamp="1588336002598">
         <mark key="[" line="0" column="19" />
@@ -156,11 +156,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="E:/java_se/internalclass/src/Outer.java" timestamp="1588340917888">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="20" />
+      <file name="E:/java_se/internalclass/src/Outer.java" timestamp="1588341168091">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="E:/java_se/returnvalue/src/AnimalDemo.java" timestamp="1588339830494">
         <mark key="'" line="4" column="18" />
@@ -209,10 +209,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>show</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
@@ -248,7 +248,7 @@
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZWF0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
