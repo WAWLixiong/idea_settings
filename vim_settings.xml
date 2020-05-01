@@ -76,20 +76,23 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="28" />
       </file>
+      <file name="E:/java_se/classandinterface/src/InterfaceC.java" timestamp="1588336060547">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="57" />
+      </file>
       <file name="E:/java_se/chouxiang/src/Animal.java" timestamp="1588309128420">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="44" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="E:/java_se/classandinterface/src/Animal.java" timestamp="1588335979955">
+      <file name="E:/java_se/classandinterface/src/Animal.java" timestamp="1588336002598">
         <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="65" />
-        <mark key="." line="0" column="64" />
-      </file>
-      <file name="/a.sql" timestamp="1587270890443">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="E:/java_se/duotai/src/Cat.java" timestamp="1588301324825">
         <mark key="'" line="0" column="26" />
@@ -116,9 +119,6 @@
         <mark key="]" line="11" column="16" />
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587270887047">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/java_se/heima/src/Animal.java" timestamp="1588303782410">
         <mark key="[" line="28" column="22" />
@@ -168,6 +168,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="E:/java_se/classandinterface/src/InterfaceB.java" timestamp="1588336051509">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="20" column="19" filename="E:/java_se/idea_demo/src/string_learn/StringTest2.java" />
@@ -189,10 +195,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cat</text>
+        <text>extends InterfaceA</text>
       </register>
       <register name="-" type="4">
-        <text>cat</text>
+        <text>extends InterfaceA</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
