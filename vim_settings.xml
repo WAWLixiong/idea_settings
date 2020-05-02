@@ -51,98 +51,14 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/java_se/returnvalue/src/CatOperator.java" timestamp="1588339260872">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="E:/java_se/chouxiang/src/Animal.java" timestamp="1588309128420">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="43" />
-      </file>
-      <file name="E:/java_se/returnvalue/src/Animal.java" timestamp="1588339726883">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="E:/java_se/returnvalue/src/JumpingDemo.java" timestamp="1588340264703">
-        <mark key="'" line="2" column="54" />
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="4" column="34" />
-      </file>
-      <file name="E:/java_se/returnvalue/src/AnimalOperator.java" timestamp="1588339506347">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="E:/java_se/chouxiang/src/Dog.java" timestamp="1588309181082">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="30" />
-      </file>
-      <file name="E:/java_se/returnvalue/src/Cat.java" timestamp="1588339109423">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-        <mark key="." line="2" column="39" />
-      </file>
-      <file name="E:/java_se/chouxiang/src/Cat.java" timestamp="1588309213045">
-        <mark key="'" line="0" column="30" />
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="29" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="8" column="28" />
-      </file>
-      <file name="E:/java_se/returnvalue/src/JumpingOperator.java" timestamp="1588340149659">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
-      <file name="E:/java_se/classandinterface/src/InterfaceC.java" timestamp="1588336060547">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="58" />
-        <mark key="^" line="0" column="58" />
-        <mark key="." line="0" column="57" />
-      </file>
-      <file name="E:/java_se/returnvalue/src/Jumping.java" timestamp="1588340016036">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
-      <file name="E:/java_se/internalclass/src/Demo.java" timestamp="1588341187765">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="18" />
-      </file>
-      <file name="E:/java_se/classandinterface/src/Animal.java" timestamp="1588336002598">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
-      </file>
-      <file name="E:/java_se/chouxiang/src/Demo.java" timestamp="1588309223350">
-        <mark key="'" line="2" column="23" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="17" />
-      </file>
       <file name="E:/java_se/returnvalue/src/Demo.java" timestamp="1588340818544">
         <mark key="'" line="6" column="29" />
         <mark key="[" line="6" column="18" />
@@ -156,11 +72,95 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="38" />
       </file>
+      <file name="E:/java_se/returnvalue/src/JumpingOperator.java" timestamp="1588340149659">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
+      <file name="E:/java_se/heima/src/StringDemo.java" timestamp="1588436764143">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="57" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="57" />
+      </file>
+      <file name="E:/java_se/classandinterface/src/InterfaceC.java" timestamp="1588336060547">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="57" />
+      </file>
+      <file name="E:/java_se/returnvalue/src/CatOperator.java" timestamp="1588339260872">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="E:/java_se/returnvalue/src/Jumping.java" timestamp="1588340016036">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
+      <file name="E:/java_se/returnvalue/src/JumpingDemo.java" timestamp="1588340264703">
+        <mark key="'" line="2" column="54" />
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="34" />
+      </file>
+      <file name="E:/java_se/internalclass/src/Demo.java" timestamp="1588341187765">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="18" />
+      </file>
       <file name="E:/java_se/internalclass/src/Outer.java" timestamp="1588345503314">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="10" />
+      </file>
+      <file name="E:/java_se/returnvalue/src/AnimalOperator.java" timestamp="1588339506347">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="E:/java_se/classandinterface/src/Animal.java" timestamp="1588336002598">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+      </file>
+      <file name="E:/java_se/heima/src/ArraysDemo.java" timestamp="1588434104033">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="E:/java_se/heima/src/IntegerDemo.java" timestamp="1588435271418">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="E:/java_se/chouxiang/src/Demo.java" timestamp="1588309223350">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="E:/java_se/returnvalue/src/Animal.java" timestamp="1588339726883">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="E:/java_se/returnvalue/src/Cat.java" timestamp="1588339109423">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="E:/java_se/returnvalue/src/AnimalDemo.java" timestamp="1588339830494">
         <mark key="'" line="4" column="18" />
@@ -204,48 +204,53 @@
       <jump line="0" column="13" filename="E:/java_se/returnvalue/src/JumpingOperator.java" />
       <jump line="2" column="54" filename="E:/java_se/returnvalue/src/JumpingDemo.java" />
       <jump line="1" column="11" filename="E:/java_se/returnvalue/src/JumpingOperator.java" />
+      <jump line="7" column="8" filename="E:/java_se/heima/src/ArraysDemo.java" />
+      <jump line="9" column="11" filename="E:/java_se/heima/src/ArraysDemo.java" />
+      <jump line="110" column="6" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Math.java" />
+      <jump line="3" column="21" filename="E:/java_se/heima/src/StringDemo.java" />
+      <jump line="2" column="13" filename="E:/java_se/heima/src/StringDemo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>show</text>
+        <text>parseInt</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text>parseInt</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3coKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInppc2hvdyIpOwogICAgICAgIHN1cGVyLnNob3coKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyW2ldID0gSW50ZWdlci5wYXJzZUludChzdHJBcmF5W2ldKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhLmVhdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzMSA9ICIyMiAgNDMgMjEgIDMyIDMxIDU1IjsKICAgIFN0cmluZ1tdIHN0ckFyYXk9IHMxLnNwbGl0KCIgIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExTT3V0cHV0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvcihpbnQgaT0wOyBpIDwgc3RyQXJheS5sZW5ndGg7IGkrKyl7CiAgICAgICAgCgogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGwxLmxlbmd0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZWF0KCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNYXRoLmFicygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -265,7 +270,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
