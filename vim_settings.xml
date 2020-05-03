@@ -128,11 +128,11 @@
         <mark key="." line="28" column="62" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="E:/java_se/heima/src/ForDemo.java" timestamp="1588513126060">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="30" />
+      <file name="E:/java_se/heima/src/ForDemo.java" timestamp="1588513262926">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Exception.java" timestamp="1588476586663">
         <mark key="'" line="65" column="11" />
@@ -283,16 +283,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>hello</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgcyA9IHN0Lm5leHQoKTsKLy8gICAgICAgICAgICBpZiAocy5lcXVhbHMoIndvcmxkIikpewovLyAgICAgICAgICAgICAgICBsaXN0LmFkZCgiamF2YWVlIik7Ci8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBiLmFkZCgiaGVsbG8iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
