@@ -11,6 +11,7 @@
         <entry encoding="base64">XDxKYXBhbmVzZUltcGVyaWFsQ2FsZW5kYXJcPg==</entry>
         <entry encoding="base64">XDxCdWRkaGlzdENhbGVuZGFyXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxNZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>b2</entry>
@@ -25,8 +26,8 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>we</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -70,6 +71,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/java_se/heima/src/Student.java" timestamp="1588487724973">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="E:/java_se/exception/src/ExceptionDemo.java" timestamp="1588476457703">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="E:/java_se/DateTest/src/CalendarTestDemo.java" timestamp="1588469400531">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="21" />
@@ -82,6 +95,13 @@
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="49" />
+      </file>
+      <file name="E:/java_se/heima/src/ListErrDemo.java" timestamp="1588512637413">
+        <mark key="'" line="25" column="45" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="29" column="18" />
       </file>
       <file name="E:/java_se/heima/src/IteratorDemo.java" timestamp="1588487430868">
         <mark key="'" line="32" column="0" />
@@ -102,24 +122,26 @@
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Calendar.java" timestamp="1588466810713">
         <mark key="'" line="1708" column="33" />
       </file>
-      <file name="E:/java_se/DateTest/src/DateUtils.java" timestamp="1588465948650">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="17" column="17" />
+      <file name="E:/java_se/heima/src/CollDemo.java" timestamp="1588490970805">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="63" />
+        <mark key="." line="28" column="62" />
+        <mark key="^" line="28" column="63" />
       </file>
-      <file name="E:/java_se/heima/src/SimpleDateFormatDemo.java" timestamp="1588465505305">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="28" />
+      <file name="E:/java_se/heima/src/ForDemo.java" timestamp="1588513126060">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="30" />
       </file>
-      <file name="E:/java_se/heima/src/DateDemo.java" timestamp="1588465140893">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="13" column="47" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Exception.java" timestamp="1588476586663">
+        <mark key="'" line="65" column="11" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/List.java" timestamp="1588511283144" />
+      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" timestamp="1588512739624">
+        <mark key="'" line="1092" column="26" />
+        <mark key="[" line="981" column="0" />
+        <mark key="]" line="981" column="46" />
       </file>
       <file name="E:/java_se/DateTest/src/CalendarDemo.java" timestamp="1588468928510">
         <mark key="'" line="0" column="0" />
@@ -128,42 +150,7 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="E:/java_se/exception/src/Demo.java" timestamp="1588477078538">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="17" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" timestamp="1588466839076">
-        <mark key="'" line="35" column="42" />
-      </file>
-      <file name="E:/java_se/heima/src/Student.java" timestamp="1588487724973">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="E:/java_se/exception/src/ExceptionDemo.java" timestamp="1588476457703">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-      </file>
-      <file name="E:/java_se/heima/src/CollDemo.java" timestamp="1588490970805">
-        <mark key="[" line="28" column="49" />
-        <mark key="]" line="28" column="63" />
-        <mark key="." line="28" column="62" />
-        <mark key="^" line="28" column="63" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Exception.java" timestamp="1588476586663">
-        <mark key="'" line="65" column="11" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" timestamp="1588487037427">
-        <mark key="'" line="994" column="15" />
-        <mark key="[" line="981" column="0" />
-        <mark key="]" line="981" column="46" />
-      </file>
-      <file name="E:/java_se/heima/src/ListDemo.java" timestamp="1588491605283">
+      <file name="E:/java_se/heima/src/ListDemo.java" timestamp="1588510802294">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="22" column="40" />
         <mark key="]" line="23" column="38" />
@@ -180,19 +167,17 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="35" />
       </file>
+      <file name="E:/java_se/exception/src/Demo.java" timestamp="1588477078538">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" timestamp="1588466839076">
+        <mark key="'" line="35" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="19" filename="E:/java_se/idea_demo/src/string_learn/StringTest2.java" />
-      <jump line="13" column="29" filename="E:/java_se/idea_demo/src/arraylist_learn/StudentListTest.java" />
-      <jump line="10" column="0" filename="E:/java_se/idea_demo/src/arraylist_learn/Student.java" />
-      <jump line="15" column="21" filename="E:/java_se/idea_demo/src/arraylist_learn/StudentListTest.java" />
-      <jump line="2" column="13" filename="E:/java_se/OOB/src/com01/Zi.java" />
-      <jump line="3" column="9" filename="E:/java_se/OOB/src/com01/Zi.java" />
-      <jump line="6" column="20" filename="E:/java_se/OOB/src/com01/Demo.java" />
-      <jump line="2" column="0" filename="E:/java_se/duotai/src/Cat.java" />
-      <jump line="0" column="26" filename="E:/java_se/duotai/src/Cat.java" />
-      <jump line="0" column="13" filename="E:/java_se/duotai/src/Animal.java" />
-      <jump line="2" column="23" filename="E:/java_se/duotai/src/AnimalDemo.java" />
       <jump line="2" column="23" filename="E:/java_se/chouxiang/src/Demo.java" />
       <jump line="0" column="30" filename="E:/java_se/chouxiang/src/Cat.java" />
       <jump line="0" column="22" filename="E:/java_se/chouxiang/src/Animal.java" />
@@ -277,42 +262,58 @@
       <jump line="13" column="0" filename="E:/java_se/heima/src/ListDemo.java" />
       <jump line="23" column="37" filename="E:/java_se/heima/src/ListDemo.java" />
       <jump line="0" column="0" filename="E:/java_se/heima/src/ListDemo.java" />
+      <jump line="6" column="8" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="1040" column="35" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="984" column="12" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="898" column="12" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="510" column="42" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="995" column="18" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="13" column="35" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="19" column="19" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="27" column="0" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="35" column="0" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="16" column="26" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="0" column="0" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="25" column="45" filename="E:/java_se/heima/src/ListErrDemo.java" />
+      <jump line="1048" column="54" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="1092" column="26" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="1039" column="19" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>list</text>
       </register>
       <register name="-" type="4">
-        <text>it.next()</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXRhaWxNZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjLnJlbW92ZSgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgcyA9IHN0Lm5leHQoKTsKLy8gICAgICAgICAgICBpZiAocy5lcXVhbHMoIndvcmxkIikpewovLyAgICAgICAgICAgICAgICBsaXN0LmFkZCgiamF2YWVlIik7Ci8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYy5uZXh0TGluZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzMQo=</text>
+        <text encoding="base64">ICAgICAgICBzYy5uZXh0TGluZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzMQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXRhaWxNZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXRhaWxNZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</last-pattern>
       <last-replace>ch</last-replace>
       <last-substitute>line.charAt(i)</last-substitute>
       <last-dir>-1</last-dir>
