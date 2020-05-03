@@ -18,8 +18,8 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>e ~/.vimrc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,13 +143,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="E:/java_se/chouxiang/src/Demo.java" timestamp="1588309223350">
-        <mark key="'" line="2" column="23" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="17" />
-      </file>
       <file name="E:/java_se/returnvalue/src/Animal.java" timestamp="1588339726883">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="16" />
@@ -174,6 +167,12 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="E:/java_se/heima/src/BoxDemo.java" timestamp="1588437003897">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="E:/java_se/returnvalue/src/Rabbit.java" timestamp="1588340244805">
         <mark key="[" line="0" column="40" />
@@ -214,10 +213,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>parseInt</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>parseInt</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>line.charAt(i)</text>
@@ -226,34 +225,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYXJyW2ldID0gSW50ZWdlci5wYXJzZUludChzdHJBcmF5W2ldKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGlpID0gMTAwOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzMSA9ICIyMiAgNDMgMjEgIDMyIDMxIDU1IjsKICAgIFN0cmluZ1tdIHN0ckFyYXk9IHMxLnNwbGl0KCIgIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExTT3V0cHV0Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzMSA9ICIyMiAgNDMgMjEgIDMyIDMxIDU1IjsKICAgIFN0cmluZ1tdIHN0ckFyYXk9IHMxLnNwbGl0KCIgIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcihpbnQgaT0wOyBpIDwgc3RyQXJheS5sZW5ndGg7IGkrKyl7CiAgICAgICAgCgogICAgfQo=</text>
+        <text encoding="base64">ICAgIExTT3V0cHV0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvcihpbnQgaT0wOyBpIDwgc3RyQXJheS5sZW5ndGg7IGkrKyl7CiAgICAgICAgCgogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGwxLmxlbmd0aAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih4KTsK</text>
+        <text encoding="base64">ICAgIGwxLmxlbmd0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRoLmFicygpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih4KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
