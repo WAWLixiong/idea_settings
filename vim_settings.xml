@@ -23,9 +23,9 @@
         <entry>2</entry>
         <entry>e ~/.vimrc</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -80,8 +80,12 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="E:/java_se/exception/src/MyException.java" timestamp="1588476795160">
+      <file name="E:/java_se/exception/src/MyException.java" timestamp="1588477062593">
         <mark key="'" line="5" column="9" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="49" />
       </file>
       <file name="E:/java_se/DateTest/src/Demo.java" timestamp="1588466377234">
         <mark key="[" line="12" column="31" />
@@ -126,11 +130,11 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="E:/java_se/exception/src/Demo.java" timestamp="1588476866966">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="46" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="8" column="45" />
+      <file name="E:/java_se/exception/src/Demo.java" timestamp="1588477078538">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="E:/java_se/heima/src/BoxDemo.java" timestamp="1588437003897">
         <mark key="[" line="5" column="21" />
@@ -249,10 +253,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE15RXhjZXB0aW9uIGV4dGVuZHMgRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ParseException</text>
+        <text>throws MyException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXRhaWxNZXNzYWdlXD4=</text>
@@ -261,34 +265,34 @@
         <text encoding="base64">ICAgICAgICBtZXRob2QoKTsgLy8gtPLTobP20uyzo7XE0MXPorK7zKu21L6isKEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE15RXhjZXB0aW9uIGV4dGVuZHMgRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5QYXJzZUV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBtZXRob2QoKTsKICAgICAgICB9IGNhdGNoIChNeUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE15RXhjZXB0aW9uIGV4dGVuZHMgRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5QYXJzZUV4Y2VwdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyWzNdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjLmFkZChDYWxlbmRhci5ZRUFSLCAtMyk7IC8vIDPE6sewtcS98czsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
