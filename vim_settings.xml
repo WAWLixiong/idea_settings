@@ -94,11 +94,12 @@
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/HashSet.java" timestamp="1588557603468">
         <mark key="'" line="219" column="21" />
       </file>
-      <file name="E:/java_se/heima/src/ComparatorDemo.java" timestamp="1588563059935">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="25" column="32" />
-        <mark key="^" line="25" column="32" />
-        <mark key="." line="25" column="31" />
+      <file name="E:/java_se/heima/src/ComparatorDemo.java" timestamp="1588563185834">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="54" />
+        <mark key="^" line="18" column="54" />
+        <mark key="." line="18" column="53" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1588558073750">
         <mark key="'" line="622" column="21" />
@@ -184,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="16" filename="E:/java_se/returnvalue/src/AnimalOperator.java" />
       <jump line="0" column="13" filename="E:/java_se/returnvalue/src/JumpingOperator.java" />
       <jump line="2" column="54" filename="E:/java_se/returnvalue/src/JumpingDemo.java" />
       <jump line="1" column="11" filename="E:/java_se/returnvalue/src/JumpingOperator.java" />
@@ -284,15 +284,16 @@
       <jump line="622" column="21" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/HashMap.java" />
       <jump line="390" column="26" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/HashMap.java" />
       <jump line="0" column="29" filename="E:/java_se/heima/src/Cat.java" />
+      <jump line="0" column="2" filename="E:/java_se/heima/src/ComparatorDemo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cy5hZGQoczEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>17</text>
       </register>
       <register name="-" type="4">
-        <text>xiaolongnv</text>
+        <text>17</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</text>
