@@ -26,8 +26,8 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>we</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -71,12 +71,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/java_se/FanXing2/src/Demo.java" timestamp="1589556775286">
+      <file name="E:/java_se/FanXing2/src/Demo.java" timestamp="1589556856771">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="17" />
+        <mark key="[" line="6" column="22" />
+        <mark key="." line="2" column="45" />
       </file>
       <file name="E:/java_se/FanXing/src/Generic.java" timestamp="1589555678636">
         <mark key="'" line="0" column="0" />
@@ -85,12 +83,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="E:/java_se/FanXing2/src/Generic.java" timestamp="1589556616466">
+      <file name="E:/java_se/FanXing2/src/Generic.java" timestamp="1589556836426">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="7" column="8" />
       </file>
       <file name="E:/java_se/heima/src/ComparatorDemo.java" timestamp="1588563185834">
         <mark key="'" line="0" column="2" />
@@ -291,7 +289,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3coVCB0KXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHZvaWQgc2hvdyhUIHQpewovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHQpOwovLyAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -303,10 +301,10 @@
         <text encoding="base64">ICAgICAgICBHZW5lcmljPFN0cmluZz4gZyA9IG5ldyBHZW5lcmljPD4oKTsKICAgICAgICBnLnNldFQoIrfnx+XR7yIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihnLmdldFQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3coVCB0KXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHZvaWQgc2hvdyhUIHQpewovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHQpOwovLyAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3coVCB0KXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odCk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,16 +316,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuYW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjLmFkZCgxMDApOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICBjLmFkZCgxMDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cy5hZGQoMTApOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
