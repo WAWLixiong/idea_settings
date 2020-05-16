@@ -78,7 +78,7 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="E:/java_se/FanXing3/src/Generic.java" timestamp="1589559720865">
+      <file name="E:/java_se/FanXing3/src/Generic.java" timestamp="1589559744260">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
@@ -109,7 +109,8 @@
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Collection.java" timestamp="1589554250794">
         <mark key="'" line="220" column="46" />
       </file>
-      <file name="E:/java_se/FanXing3/src/Demo.java" timestamp="1589559297195">
+      <file name="E:/java_se/FanXing3/src/Demo.java" timestamp="1589559785179">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -134,8 +135,8 @@
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/AbstractCollection.java" timestamp="1589554242977">
         <mark key="'" line="60" column="57" />
       </file>
-      <file name="E:/java_se/FanXing3/src/GenericImpl.java" timestamp="1589559194846">
-        <mark key="'" line="0" column="45" />
+      <file name="E:/java_se/FanXing3/src/GenericImpl.java" timestamp="1589559796407">
+        <mark key="'" line="0" column="13" />
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="28" />
         <mark key="^" line="4" column="28" />
@@ -187,9 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="7" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
-      <jump line="369" column="28" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
-      <jump line="371" column="40" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
       <jump line="383" column="30" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
       <jump line="389" column="14" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
       <jump line="1188" column="19" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
@@ -284,9 +282,12 @@
       <jump line="11" column="19" filename="E:/java_se/FanXing2/src/Demo.java" />
       <jump line="0" column="0" filename="E:/java_se/FanXing2/src/Demo.java" />
       <jump line="2" column="0" filename="E:/java_se/FanXing3/src/Generic.java" />
-      <jump line="0" column="45" filename="E:/java_se/FanXing3/src/GenericImpl.java" />
       <jump line="4" column="0" filename="E:/java_se/FanXing3/src/Generic.java" />
       <jump line="0" column="0" filename="E:/java_se/FanXing3/src/Generic.java" />
+      <jump line="9" column="0" filename="E:/java_se/FanXing3/src/GenericImpl.java" />
+      <jump line="6" column="0" filename="E:/java_se/FanXing3/src/Demo.java" />
+      <jump line="0" column="0" filename="E:/java_se/FanXing3/src/Demo.java" />
+      <jump line="0" column="13" filename="E:/java_se/FanXing3/src/GenericImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
