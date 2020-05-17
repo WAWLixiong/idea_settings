@@ -165,12 +165,12 @@
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Collection.java" timestamp="1589554250794">
         <mark key="'" line="220" column="46" />
       </file>
-      <file name="E:/java_se/Father2Children/src/Employee.java" timestamp="1589705599649">
-        <mark key="'" line="8" column="28" />
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="31" column="22" />
-        <mark key="^" line="31" column="22" />
-        <mark key="." line="31" column="21" />
+      <file name="E:/java_se/Father2Children/src/Employee.java" timestamp="1589706596327">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="40" column="39" />
+        <mark key="." line="40" column="38" />
       </file>
       <file name="E:/java_se/FanXing3/src/Demo.java" timestamp="1589559785179">
         <mark key="'" line="0" column="0" />
@@ -178,18 +178,16 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="E:/java_se/Father2Children/src/Manager.java" timestamp="1589706031834">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="33" />
+      <file name="E:/java_se/Father2Children/src/Manager.java" timestamp="1589706657824">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1589555562676">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1297" column="19" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
       <jump line="1312" column="8" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
       <jump line="1439" column="26" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
       <jump line="1548" column="42" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
@@ -289,12 +287,13 @@
       <jump line="10" column="39" filename="E:/java_se/CalendarDemo/src/Demo.java" />
       <jump line="828" column="21" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/time/LocalDate.java" />
       <jump line="8" column="28" filename="E:/java_se/Father2Children/src/Employee.java" />
+      <jump line="5" column="28" filename="E:/java_se/Father2Children/src/Employee.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>emploue1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>emploue1</text>
@@ -306,31 +305,31 @@
         <text encoding="base64">cHVibGljIGludGVyZmFjZSBHZW5lcmljPFQ+IHsKICAgIHZvaWQgc2hvdyhUIHQpOwp9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2Vycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEVtcGxveWVlW10gZW0gPSBuZXcgRW1wbG95ZWVbM107Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJpdmF0ZSB2b2lkIGluZm8oKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIHBsYXQiKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmFpc2VTYWxhcnkoZG91YmxlIGJ5UGVyY2VudCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluZm8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2Vycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgYmFzZVNhbGFyeSA9IHN1cGVyLmdldFNhbGFyeSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEVtcGxveWVlW10gZW0gPSBuZXcgRW1wbG95ZWVbM107Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0U2FsYXJ5KCk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmFpc2VTYWxhcnkoZG91YmxlIGJ5UGVyY2VudCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5yYWlzZVNhbGFyeShieVBlcmNlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
