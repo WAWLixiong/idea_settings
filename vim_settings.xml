@@ -66,6 +66,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -157,11 +160,6 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" timestamp="1589554227873">
-        <mark key="'" line="107" column="35" />
-        <mark key="[" line="981" column="0" />
-        <mark key="]" line="981" column="46" />
-      </file>
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Collection.java" timestamp="1589554250794">
         <mark key="'" line="220" column="46" />
       </file>
@@ -185,6 +183,12 @@
       </file>
       <file name="/fragment.java" timestamp="1589555562676">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/java_se/EnumTest/src/Demo.java" timestamp="1589813214173">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="71" />
       </file>
     </filemarks>
     <jumps>
@@ -296,7 +300,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>emploue1</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</text>
@@ -308,28 +312,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJpdmF0ZSB2b2lkIGluZm8oKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIHBsYXQiKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFyZ3MgPSAiICsgQXJyYXlzLmRlZXBUb1N0cmluZyhhcmdzKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluZm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2Vycwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJpdmF0ZSB2b2lkIGluZm8oKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlbGxvIHBsYXQiKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEVtcGxveWVlW10gZW0gPSBuZXcgRW1wbG95ZWVbM107Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmFpc2VTYWxhcnkoZG91YmxlIGJ5UGVyY2VudCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGluZm8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2Vycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEVtcGxveWVlW10gZW0gPSBuZXcgRW1wbG95ZWVbM107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
