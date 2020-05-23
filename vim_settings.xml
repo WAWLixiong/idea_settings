@@ -95,31 +95,17 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="E:/java_se/FanXing3/src/GenericImpl.java" timestamp="1589559796407">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-      </file>
-      <file name="E:/java_se/heima/src/GenericDemo.java" timestamp="1589554588649">
-        <mark key="'" line="6" column="28" />
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="13" column="34" />
-        <mark key="^" line="13" column="35" />
-      </file>
       <file name="E:/java_se/Father2Children/src/Demo.java" timestamp="1589706294959">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="E:/java_se/ReflectDemo/src/Demo.java" timestamp="1590202111634">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="14" />
+      <file name="E:/java_se/src/varparameter/ArgsDemo2.java" timestamp="1590210619376">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="25" />
       </file>
       <file name="E:/java_se/FanXing2/src/Generic.java" timestamp="1589557937579">
         <mark key="'" line="0" column="0" />
@@ -127,6 +113,58 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="8" />
+      </file>
+      <file name="E:/java_se/ReflectDemo/src/ReflectionTest.java" timestamp="1590204750562">
+        <mark key="'" line="77" column="30" />
+        <mark key="[" line="85" column="29" />
+        <mark key="]" line="85" column="30" />
+        <mark key="." line="85" column="30" />
+        <mark key="^" line="85" column="30" />
+      </file>
+      <file name="E:/java_se/Father2Children/src/Employee.java" timestamp="1589706596327">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="40" column="39" />
+        <mark key="." line="40" column="38" />
+      </file>
+      <file name="E:/java_se/FanXing3/src/Demo.java" timestamp="1589559785179">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="E:/java_se/Father2Children/src/Manager.java" timestamp="1589706657824">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="E:/java_se/EnumTest/src/Demo.java" timestamp="1589814076710">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="12" column="71" />
+      </file>
+      <file name="E:/java_se/src/varparameter/Demo.java" timestamp="1590210306260">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="30" />
+      </file>
+      <file name="E:/java_se/FanXing3/src/GenericImpl.java" timestamp="1589559796407">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="E:/java_se/ReflectDemo/src/Demo.java" timestamp="1590202111634">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="E:/java_se/FanXing/src/Demo.java" timestamp="1589555856125">
         <mark key="'" line="0" column="0" />
@@ -154,57 +192,17 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/java_se/FanXing/src/Student.java" timestamp="1589554962778">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1589607858338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="E:/java_se/ReflectDemo/src/ReflectionTest.java" timestamp="1590204750562">
-        <mark key="'" line="77" column="30" />
-        <mark key="[" line="85" column="29" />
-        <mark key="]" line="85" column="30" />
-        <mark key="." line="85" column="30" />
-        <mark key="^" line="85" column="30" />
-      </file>
-      <file name="E:/java_se/Father2Children/src/Employee.java" timestamp="1589706596327">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-        <mark key="." line="40" column="38" />
-      </file>
-      <file name="E:/java_se/FanXing3/src/Demo.java" timestamp="1589559785179">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="E:/java_se/Father2Children/src/Manager.java" timestamp="1589706657824">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1589555562676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/java_se/EnumTest/src/Demo.java" timestamp="1589814076710">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="12" column="71" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="20" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
-      <jump line="71" column="11" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
       <jump line="67" column="20" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
       <jump line="62" column="11" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
       <jump line="81" column="20" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
@@ -303,15 +301,17 @@
       <jump line="2242" column="19" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Class.java" />
       <jump line="20" column="0" filename="E:/java_se/src/com/fanxing/GenericDemo.java" />
       <jump line="0" column="0" filename="E:/java_se/src/com/fanxing/GenericDemo.java" />
+      <jump line="16" column="0" filename="E:/java_se/src/varparameter/Demo.java" />
+      <jump line="0" column="0" filename="E:/java_se/src/varparameter/Demo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new Arr</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>new Arr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</text>
@@ -320,31 +320,31 @@
         <text encoding="base64">ICAgICAgICBMaXN0PD8gc3VwZXIgTnVtYmVyPiBsaXN0NyA9IG5ldyBBcnJheUxpc3Q8T2JqZWN0PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgIGxpc3QuYWRkKCJoaSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsaXN0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PD8gc3VwZXIgTnVtYmVyPiBsaXN0OSA9IG5ldyBBcnJheUxpc3Q8TnVtYmVyPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vCg==</text>
+        <text encoding="base64">ICAgIHNvdXQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PD8gc3VwZXIgTnVtYmVyPiBsaXN0OSA9IG5ldyBBcnJheUxpc3Q8TnVtYmVyPigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFyZ3MgPSAiICsgQXJyYXlzLmRlZXBUb1N0cmluZyhhcmdzKSk7ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
