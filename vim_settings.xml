@@ -101,11 +101,11 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="E:/java_se/src/varparameter/ArgsDemo2.java" timestamp="1590210619376">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="25" />
+      <file name="E:/java_se/src/varparameter/ArgsDemo2.java" timestamp="1590210803069">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="31" />
       </file>
       <file name="E:/java_se/FanXing2/src/Generic.java" timestamp="1589557937579">
         <mark key="'" line="0" column="0" />
@@ -308,7 +308,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>new Arr</text>
+        <text>// java 11 无法通过编译</text>
       </register>
       <register name="-" type="4">
         <text>new Arr</text>
@@ -316,8 +316,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PD8gc3VwZXIgTnVtYmVyPiBsaXN0NyA9IG5ldyBBcnJheUxpc3Q8T2JqZWN0PigpOwo=</text>
+      <register name="0" type="4">
+        <text>// java 11 无法通过编译</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgIGxpc3QuYWRkKCJoaSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsaXN0KTsK</text>
