@@ -135,6 +135,12 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="9" />
       </file>
+      <file name="E:/java_se/src/com/fanxing/GenericDemo.java" timestamp="1590209033506">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="E:/java_se/FanXing/src/Teacher.java" timestamp="1589555158199">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="22" />
@@ -167,9 +173,6 @@
         <mark key="." line="85" column="30" />
         <mark key="^" line="85" column="30" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Collection.java" timestamp="1589554250794">
-        <mark key="'" line="220" column="46" />
-      </file>
       <file name="E:/java_se/Father2Children/src/Employee.java" timestamp="1589706596327">
         <mark key="'" line="5" column="28" />
         <mark key="[" line="39" column="23" />
@@ -200,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2311" column="18" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/JapaneseImperialCalendar.java" />
-      <jump line="1708" column="33" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/Calendar.java" />
       <jump line="76" column="20" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
       <jump line="71" column="11" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
       <jump line="67" column="20" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/sun/util/BuddhistCalendar.java" />
@@ -300,48 +301,50 @@
       <jump line="61" column="0" filename="E:/java_se/ReflectDemo/src/ReflectionTest.java" />
       <jump line="77" column="30" filename="E:/java_se/ReflectDemo/src/ReflectionTest.java" />
       <jump line="2242" column="19" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/lang/Class.java" />
+      <jump line="20" column="0" filename="E:/java_se/src/com/fanxing/GenericDemo.java" />
+      <jump line="0" column="0" filename="E:/java_se/src/com/fanxing/GenericDemo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vZGlmaWVzID0gTW9kaWZpZXIudG9TdHJpbmcobS5nZXRNb2RpZmllcnMoKSk7CiAgICAgICAgICAgIGlmIChtb2RpZmllcy5sZW5ndGgoKSA+IDApIFN5c3RlbS5vdXQucHJpbnQobW9kaWZpZXMgKyAiICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PD8gc3VwZXIgTnVtYmVyPiBsaXN0NyA9IG5ldyBBcnJheUxpc3Q8T2JqZWN0PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PD8gc3VwZXIgTnVtYmVyPiBsaXN0OSA9IG5ldyBBcnJheUxpc3Q8TnVtYmVyPigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFyZ3MgPSAiICsgQXJyYXlzLmRlZXBUb1N0cmluZyhhcmdzKSk7ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBSZWZsZWN0RGVtbwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFyZ3MgPSAiICsgQXJyYXlzLmRlZXBUb1N0cmluZyhhcmdzKSk7ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
