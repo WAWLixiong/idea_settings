@@ -29,6 +29,7 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>w2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -126,23 +127,23 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/java_se/CalendarDemo/src/Demo.java" timestamp="1589611139463">
-        <mark key="'" line="10" column="39" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="E:/java_se/FanXing2/src/Demo2.java" timestamp="1595859849771">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
         <mark key="." line="18" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1589607858338">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="11" />
+      <file name="E:/java_se/src/map/CollectionsDemo.java" timestamp="1596552925098">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="E:/java_se/src/map/StrCount.java" timestamp="1596552821733">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="36" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/HashMap.java" timestamp="1595944920165">
         <mark key="'" line="266" column="4" />
@@ -306,44 +307,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(String)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(String)</text>
+        <text>HashMap</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uIGMgPSBuZXcgQXJyYXlMaXN0KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>Character, Integer</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU291dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaS4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzY2FubmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJuYW1lIiwgIsHWx+DPvCIpOwogICAgICAgIG1hcC5wdXQoIm5hbWUiLCAiwdbH4M+8Iik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU291dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
