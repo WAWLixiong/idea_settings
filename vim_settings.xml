@@ -27,11 +27,12 @@
         <entry>e ~/.vimrc</entry>
         <entry>qw</entry>
         <entry>wq</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w2</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLyQvOy9n</entry>
+        <entry>we</entry>
+        <entry>2w</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -85,12 +86,12 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="35" column="32" />
       </file>
-      <file name="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" timestamp="1596632996711">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="25" column="56" />
-        <mark key="]" line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="26" column="46" />
+      <file name="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" timestamp="1596634036645">
+        <mark key="'" line="15" column="32" />
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="E:/java_se/src/varparameter/Demo.java" timestamp="1590214417560">
         <mark key="'" line="0" column="0" />
@@ -98,6 +99,13 @@
         <mark key="]" line="5" column="30" />
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="30" />
+      </file>
+      <file name="E:/java_se/src/puke_card/PokerDemo.java" timestamp="1596636405108">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="65" column="1" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="55" column="31" />
       </file>
       <file name="E:/java_se/src/map/MapDemo4.java" timestamp="1590504658999">
         <mark key="'" line="0" column="0" />
@@ -116,6 +124,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="14" />
+      </file>
+      <file name="E:/java_se/src/puke_card/PokerDemo2.java" timestamp="1596637003339">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="E:/java_se/src/map/MapDemo3.java" timestamp="1590222041400">
         <mark key="'" line="0" column="0" />
@@ -173,24 +187,12 @@
         <mark key="." line="29" column="42" />
         <mark key="^" line="29" column="43" />
       </file>
-      <file name="E:/java_se/Father2Children/src/Employee.java" timestamp="1589706596327">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-        <mark key="." line="40" column="38" />
-      </file>
       <file name="E:/java_se/src/map/Student.java" timestamp="1596632721225">
         <mark key="'" line="29" column="15" />
         <mark key="[" line="25" column="5" />
         <mark key="]" line="28" column="39" />
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="38" />
-      </file>
-      <file name="E:/java_se/Father2Children/src/Manager.java" timestamp="1589706657824">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="E:/java_se/src/map/MapDemo2.java" timestamp="1595945279212">
         <mark key="'" line="9" column="13" />
@@ -208,12 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="22" filename="E:/java_se/heima/src/IteratorDemo.java" />
-      <jump line="0" column="0" filename="E:/java_se/heima/src/IteratorDemo.java" />
-      <jump line="32" column="0" filename="E:/java_se/heima/src/IteratorDemo.java" />
-      <jump line="5" column="35" filename="E:/java_se/heima/src/ListDemo.java" />
-      <jump line="13" column="0" filename="E:/java_se/heima/src/ListDemo.java" />
-      <jump line="23" column="37" filename="E:/java_se/heima/src/ListDemo.java" />
       <jump line="0" column="0" filename="E:/java_se/heima/src/ListDemo.java" />
       <jump line="6" column="8" filename="E:/java_se/heima/src/ListErrDemo.java" />
       <jump line="1040" column="35" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
@@ -305,9 +301,15 @@
       <jump line="9" column="13" filename="E:/java_se/src/map/MapDemo2.java" />
       <jump line="17" column="13" filename="E:/java_se/src/map/CollectionsDemo.java" />
       <jump line="0" column="0" filename="E:/java_se/src/map/CollectionsDemo.java" />
-      <jump line="15" column="14" filename="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" />
       <jump line="21" column="22" filename="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" />
       <jump line="29" column="15" filename="E:/java_se/src/map/Student.java" />
+      <jump line="28" column="54" filename="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" />
+      <jump line="15" column="32" filename="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" />
+      <jump line="45" column="18" filename="E:/java_se/src/puke_card/PokerDemo.java" />
+      <jump line="20" column="10" filename="E:/java_se/src/puke_card/PokerDemo.java" />
+      <jump line="0" column="0" filename="E:/java_se/src/puke_card/PokerDemo.java" />
+      <jump line="2" column="13" filename="E:/java_se/src/puke_card/PokerDemo2.java" />
+      <jump line="0" column="0" filename="E:/java_se/src/puke_card/PokerDemo2.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,40 +318,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>18</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdHVkZW50cy5hZGQoc3QxKTsK</text>
+        <text encoding="base64">cGFja2FnZSBwdWtlX2NhcmQ7CgppbXBvcnQgamF2YS51dGlsLkFycmF5TGlzdDsKaW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsKCnB1YmxpYyBjbGFzcyBQb2tlckRlbW8gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIC8vILS0vajSu7j2xcbA4KOsINKyvs3Kx7ao0uXSu7j2vK+6z7bUz/OjrNPDQXJyYXlMaXN0vK+6z8q1z9YKICAgICAgICAvLyDN+cXGutDA78Pm17DFxgogICAgICAgIC8vIM+0xcajrNKyvs3Kx9PDQ29sbGVjdGlvbnMuc2h1ZmZsZSgpt723qLbUvK+6z8vmu/rWw7u7CiAgICAgICAgLy8gt6LFxqOsINKyvs3Kx7HpwPq8r7rPo6y4+Mj9uPbN5rzSt6LFxgogICAgICAgIC8vIL+0xcajrNKyvs3Kx8j9uPbN5rzSt9ax8LHpwPrX1Ly6tcTFxgoKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBwb2tlciA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgIC8vINewxcYKCiAgICAgICAgLy8gu6jJq8r91+kKICAgICAgICBTdHJpbmdbXSBjb2xvcnMgPSB7Ij8iLCAiPyIsICI/IiwgIj8ifTsKICAgICAgICAvLyC2qNLltePK/cr91+kKICAgICAgICBTdHJpbmdbXSBudW1iZXJzID0geyIyIiwgIjMiLCAiNCIsICI1IiwgIjYiLCAiNyIsICI4IiwgIjkiLCAiMTAiLCAiSiIsICJRIiwgIksiLCAiQSJ9OwogICAgICAgIGZvciAoU3RyaW5nIGNvbG9yIDogY29sb3JzKSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIG51bWJlciA6IG51bWJlcnMpIHsKICAgICAgICAgICAgICAgIHBva2VyLmFkZChjb2xvciArIG51bWJlcik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcG9rZXIuYWRkKCLQoc31Iik7CiAgICAgICAgcG9rZXIuYWRkKCK08831Iik7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9rZXIpOwoKICAgICAgICAvLyDPtMXGCiAgICAgICAgQ29sbGVjdGlvbnMuc2h1ZmZsZShwb2tlcik7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9rZXIpOwoKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbHF4QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgZnF5QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbGZxQXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKCiAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gZHBBcnJheSA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwoKICAgICAgICBmb3IgKGludCBpPTA7IGkgPCBwb2tlci5zaXplKCk7IGkrKyl7CiAgICAgICAgICAgIFN0cmluZyBjYXJkID0gcG9rZXIuZ2V0KGkpOwogICAgICAgICAgICBpZiAoaSA+PSBwb2tlci5zaXplKCkgLSAzKXsKICAgICAgICAgICAgICAgIGRwQXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDApewogICAgICAgICAgICAgICAgbHF4QXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDEpewogICAgICAgICAgICAgICAgZnF5QXJyYXkuYWRkKGNhcmQpOwovLyAgICAgICAgICAgIH0gZWxzZSBpZiAoaSAlIDMgPT0gMil7CiAgICAgICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgICAgIGxmcUFycmF5LmFkZChjYXJkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBsb29rUG9rZXIoIsHWx+DPvCIsIGxxeEFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrfnx+XR7yIsIGZxeUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIsDut+/H2SIsIGxmcUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrXXxcYiLCBkcEFycmF5KTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbG9va1Bva2VyKFN0cmluZyBuYW1lLCBBcnJheUxpc3Q8U3RyaW5nPiBhcnJheSl7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5hbWUgKyAitcTFxsrHOiIpOwogICAgICAgIGZvciAoU3RyaW5nIGNhcmQ6IGFycmF5KXsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChjYXJkICsgIiAiKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbHF4QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgZnF5QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbGZxQXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKCiAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gZHBBcnJheSA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwoKICAgICAgICBmb3IgKGludCBpPTA7IGkgPCBwb2tlci5zaXplKCk7IGkrKyl7CiAgICAgICAgICAgIFN0cmluZyBjYXJkID0gcG9rZXIuZ2V0KGkpOwogICAgICAgICAgICBpZiAoaSA+PSBwb2tlci5zaXplKCkgLSAzKXsKICAgICAgICAgICAgICAgIGRwQXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDApewogICAgICAgICAgICAgICAgbHF4QXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDEpewogICAgICAgICAgICAgICAgZnF5QXJyYXkuYWRkKGNhcmQpOwovLyAgICAgICAgICAgIH0gZWxzZSBpZiAoaSAlIDMgPT0gMil7CiAgICAgICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgICAgIGxmcUFycmF5LmFkZChjYXJkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBsb29rUG9rZXIoIsHWx+DPvCIsIGxxeEFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrfnx+XR7yIsIGZxeUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIsDut+/H2SIsIGxmcUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrXXxcYiLCBkcEFycmF5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2tlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDPtMXGCi8vICAgICAgICBDb2xsZWN0aW9ucy5zaHVmZmxlKHBva2VyKTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2tlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBwb2tlciA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgIC8vINewxcYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyC0tL2o0ru49sXGwOCjrCDSsr7Nyse2qNLl0ru49ryvus+21M/zo6zTw0FycmF5TGlzdLyvus/Ktc/WCiAgICAgICAgLy8gzfnFxrrQwO/D5tewxcYKICAgICAgICAvLyDPtMXGo6zSsr7NysfTw0NvbGxlY3Rpb25zLnNodWZmbGUoKbe9t6i21Lyvus/L5rv61sO7uwogICAgICAgIC8vILeixcajrCDSsr7Nysex6cD6vK+6z6OsuPjI/bj2zea80reixcYKICAgICAgICAvLyC/tMXGo6zSsr7NysfI/bj2zea80rfWsfCx6cD619S8urXExcYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBwdWtlX2NhcmQ7CgpwdWJsaWMgY2xhc3MgUG9rZXJEZW1vMiB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FubmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
