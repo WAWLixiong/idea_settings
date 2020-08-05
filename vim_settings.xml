@@ -13,6 +13,7 @@
         <entry encoding="base64">XDxkZXRhaWxNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZE1vZENvdW50XD4=</entry>
         <entry>put</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
         <entry>b2</entry>
@@ -28,8 +29,9 @@
         <entry>wq</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>w2</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLyQvOy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -83,6 +85,13 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="35" column="32" />
       </file>
+      <file name="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" timestamp="1596632996711">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="46" />
+      </file>
       <file name="E:/java_se/src/varparameter/Demo.java" timestamp="1590214417560">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="35" />
@@ -96,12 +105,6 @@
         <mark key="]" line="18" column="27" />
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="27" />
-      </file>
-      <file name="E:/java_se/Father2Children/src/Demo.java" timestamp="1589706294959">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="17" />
       </file>
       <file name="E:/java_se/src/varparameter/ArgsDemo2.java" timestamp="1590214428010">
         <mark key="[" line="5" column="0" />
@@ -177,7 +180,8 @@
         <mark key="^" line="40" column="39" />
         <mark key="." line="40" column="38" />
       </file>
-      <file name="E:/java_se/src/map/Student.java" timestamp="1590217054985">
+      <file name="E:/java_se/src/map/Student.java" timestamp="1596632721225">
+        <mark key="'" line="29" column="15" />
         <mark key="[" line="25" column="5" />
         <mark key="]" line="28" column="39" />
         <mark key="^" line="28" column="39" />
@@ -204,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="975" column="20" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
-      <jump line="987" column="8" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
-      <jump line="994" column="15" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
       <jump line="8" column="22" filename="E:/java_se/heima/src/IteratorDemo.java" />
       <jump line="0" column="0" filename="E:/java_se/heima/src/IteratorDemo.java" />
       <jump line="32" column="0" filename="E:/java_se/heima/src/IteratorDemo.java" />
@@ -304,21 +305,24 @@
       <jump line="9" column="13" filename="E:/java_se/src/map/MapDemo2.java" />
       <jump line="17" column="13" filename="E:/java_se/src/map/CollectionsDemo.java" />
       <jump line="0" column="0" filename="E:/java_se/src/map/CollectionsDemo.java" />
+      <jump line="15" column="14" filename="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" />
+      <jump line="21" column="22" filename="E:/java_se/src/map/CollectionsSortStudentArrrayList.java" />
+      <jump line="29" column="15" filename="E:/java_se/src/map/Student.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>listl</text>
+        <text>18</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHVkZW50cy5hZGQoc3QxKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -333,19 +337,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FubmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY2FubmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,11 +358,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>put</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
-      <last-replace>ch</last-replace>
-      <last-substitute>line.charAt(i)</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>;</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
