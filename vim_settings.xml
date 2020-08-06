@@ -114,18 +114,18 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="E:/java_se/src/FilePractice/FileGetJudgment.java" timestamp="1596725810897">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="40" />
+      </file>
       <file name="E:/java_se/src/varparameter/ArgsDemo2.java" timestamp="1590214428010">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/java_se/ReflectDemo/src/Demo.java" timestamp="1590202111634">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="14" />
-      </file>
-      <file name="E:/java_se/src/puke_card/PokerDemo2.java" timestamp="1596639981372">
+      <file name="E:/java_se/src/puke_card/PokerDemo2.java" timestamp="1596723514169">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -137,12 +137,6 @@
         <mark key="]" line="9" column="42" />
         <mark key="." line="9" column="42" />
         <mark key="^" line="12" column="37" />
-      </file>
-      <file name="E:/java_se/src/com/fanxing/GenericDemo.java" timestamp="1590209033506">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="E:/java_se/FanXing2/src/Demo2.java" timestamp="1595859849771">
         <mark key="[" line="18" column="23" />
@@ -173,12 +167,25 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="E:/java_se/ReflectDemo/src/ReflectionTest.java" timestamp="1590204750562">
-        <mark key="'" line="77" column="30" />
-        <mark key="[" line="85" column="29" />
-        <mark key="]" line="85" column="30" />
-        <mark key="." line="85" column="30" />
-        <mark key="^" line="85" column="30" />
+      <file name="E:/java_se/src/puke_card/TreeSetDemo.java" timestamp="1596723691658">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="28" />
+      </file>
+      <file name="E:/java_se/src/FilePractice/FileDemo.java" timestamp="1596725212339">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="E:/java_se/src/FilePractice/FileCreateDemo.java" timestamp="1596725232427">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="E:/java_se/src/map/MapDemo5.java" timestamp="1590505544910">
         <mark key="'" line="0" column="0" />
@@ -201,20 +208,8 @@
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="62" />
       </file>
-      <file name="E:/java_se/EnumTest/src/Demo.java" timestamp="1589814076710">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="12" column="71" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/java_se/heima/src/ListDemo.java" />
-      <jump line="6" column="8" filename="E:/java_se/heima/src/ListErrDemo.java" />
-      <jump line="1040" column="35" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
-      <jump line="984" column="12" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
-      <jump line="898" column="12" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
       <jump line="510" column="42" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
       <jump line="995" column="18" filename="C:/Program Files/Java/jdk-11.0.7/lib/src.zip!/java.base/java/util/ArrayList.java" />
       <jump line="13" column="35" filename="E:/java_se/heima/src/ListErrDemo.java" />
@@ -310,48 +305,53 @@
       <jump line="0" column="0" filename="E:/java_se/src/puke_card/PokerDemo.java" />
       <jump line="2" column="13" filename="E:/java_se/src/puke_card/PokerDemo2.java" />
       <jump line="0" column="0" filename="E:/java_se/src/puke_card/PokerDemo2.java" />
+      <jump line="16" column="0" filename="E:/java_se/src/FilePractice/FileCreateDemo.java" />
+      <jump line="14" column="16" filename="E:/java_se/src/FilePractice/FileDemo.java" />
+      <jump line="0" column="0" filename="E:/java_se/src/FilePractice/FileDemo.java" />
+      <jump line="7" column="20" filename="E:/java_se/src/FilePractice/FileCreateDemo.java" />
+      <jump line="0" column="0" filename="E:/java_se/src/FilePractice/FileCreateDemo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgY29sb3IgOiBjb2xvcnMpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String number : numbers</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="4">
-        <text>String color : colors</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBGaWxlIGYyID0gbmV3IEZpbGUoIkU6XFxpdGNhc3QiKTsKICAgICAgICBmMi5ta2RpcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgY29sb3IgOiBjb2xvcnMpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KHNldCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgY29sb3IgOiBjb2xvcnMpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KHNldCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbHF4QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgZnF5QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbGZxQXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKCiAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gZHBBcnJheSA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwoKICAgICAgICBmb3IgKGludCBpPTA7IGkgPCBwb2tlci5zaXplKCk7IGkrKyl7CiAgICAgICAgICAgIFN0cmluZyBjYXJkID0gcG9rZXIuZ2V0KGkpOwogICAgICAgICAgICBpZiAoaSA+PSBwb2tlci5zaXplKCkgLSAzKXsKICAgICAgICAgICAgICAgIGRwQXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDApewogICAgICAgICAgICAgICAgbHF4QXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDEpewogICAgICAgICAgICAgICAgZnF5QXJyYXkuYWRkKGNhcmQpOwovLyAgICAgICAgICAgIH0gZWxzZSBpZiAoaSAlIDMgPT0gMil7CiAgICAgICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgICAgIGxmcUFycmF5LmFkZChjYXJkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBsb29rUG9rZXIoIsHWx+DPvCIsIGxxeEFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrfnx+XR7yIsIGZxeUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIsDut+/H2SIsIGxmcUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrXXxcYiLCBkcEFycmF5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2tlcik7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDPtMXGCi8vICAgICAgICBDb2xsZWN0aW9ucy5zaHVmZmxlKHBva2VyKTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2tlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbHF4QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgZnF5QXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiAgbGZxQXJyYXkgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKCiAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gZHBBcnJheSA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwoKICAgICAgICBmb3IgKGludCBpPTA7IGkgPCBwb2tlci5zaXplKCk7IGkrKyl7CiAgICAgICAgICAgIFN0cmluZyBjYXJkID0gcG9rZXIuZ2V0KGkpOwogICAgICAgICAgICBpZiAoaSA+PSBwb2tlci5zaXplKCkgLSAzKXsKICAgICAgICAgICAgICAgIGRwQXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDApewogICAgICAgICAgICAgICAgbHF4QXJyYXkuYWRkKGNhcmQpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgJSAzID09IDEpewogICAgICAgICAgICAgICAgZnF5QXJyYXkuYWRkKGNhcmQpOwovLyAgICAgICAgICAgIH0gZWxzZSBpZiAoaSAlIDMgPT0gMil7CiAgICAgICAgICAgIH0gZWxzZXsKICAgICAgICAgICAgICAgIGxmcUFycmF5LmFkZChjYXJkKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBsb29rUG9rZXIoIsHWx+DPvCIsIGxxeEFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrfnx+XR7yIsIGZxeUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIsDut+/H2SIsIGxmcUFycmF5KTsKICAgICAgICBsb29rUG9rZXIoIrXXxcYiLCBkcEFycmF5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBwb2tlciA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgIC8vINewxcYK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb2tlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
