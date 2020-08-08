@@ -93,13 +93,6 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="E:/java_se/src/varparameter/Demo.java" timestamp="1590214417560">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="30" />
-      </file>
       <file name="E:/java_se/src/puke_card/PokerDemo.java" timestamp="1596636405108">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -114,11 +107,11 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="E:/java_se/src/FilePractice/FileGetJudgment.java" timestamp="1596725875975">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="40" />
+      <file name="E:/java_se/src/FilePractice/FileGetJudgment.java" timestamp="1596847906108">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="37" />
       </file>
       <file name="E:/java_se/src/varparameter/ArgsDemo2.java" timestamp="1590214428010">
         <mark key="[" line="5" column="0" />
@@ -207,6 +200,9 @@
         <mark key="]" line="20" column="62" />
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="62" />
+      </file>
+      <file name="/fragment.java" timestamp="1596847629262">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -314,17 +310,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>java_se\src\FilePractice\MyFile\java.txt</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>java_se\src\FilePractice\MyFile\java.txt</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGYyID0gbmV3IEZpbGUoIkU6XFxpdGNhc3QiKTsKICAgICAgICBmMi5ta2RpcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGYgPSBuZXcgRmlsZSgiamF2YV9zZVxcc3JjXFxGaWxlUHJhY3RpY2VcXE15RmlsZVxcamF2YS50eHQiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
