@@ -1,0 +1,7 @@
+<templateSet group="Custom">
+  <template name="tomcat7" value="&lt;plugin&gt;&#10;    &lt;groupId&gt;org.apache.tomcat.maven&lt;/groupId&gt;&#10;    &lt;artifactId&gt;tomcat7-maven-plugin&lt;/artifactId&gt;&#10;    &lt;version&gt;2.2&lt;/version&gt;&#10;    &lt;configuration&gt;&#10;        &lt;path&gt;/&lt;/path&gt;&#10;           &lt;port&gt;8080&lt;/port&gt;&#10;        &lt;uriEncoding&gt;UTF-8&lt;/uriEncoding&gt;&#10;        &lt;url&gt;http://127.0.0.1/manager&lt;/url&gt;&#10;        &lt;server&gt;tomcat7&lt;/server&gt;&#10;        &lt;contextReloadable&gt;true&lt;/contextReloadable&gt;&#10;        &lt;warSourceDirectory&gt;src/main/webapp&lt;/warSourceDirectory&gt;&#10;        &lt;contextReloadable&gt;false&lt;/contextReloadable&gt;&#10;    &lt;/configuration&gt;&#10;&lt;/plugin&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
